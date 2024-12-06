@@ -60,21 +60,8 @@ Performance Comparison
 Model	Exact Match (EM)	F1 Score
 BERT	72.43%	75.74%
 RoBERTa	79.87%	82.91%
-Visualization
 
-Bar chart comparing the Exact Match and F1 Scores of BERT and RoBERTa models:
 
-Folder Structure
-
-qa-system/
-├── app.py                # Gradio interactive UI
-├── train.py              # Model fine-tuning script
-├── evaluate.py           # Evaluation and comparison script
-├── requirements.txt      # Project dependencies
-├── README.md             # Project documentation
-├── datasets/             # SQuAD 2.0 dataset (auto-downloaded)
-├── models/               # Saved fine-tuned models
-└── results/              # Evaluation results and visualizations
 Dependencies
 
 Ensure the following Python libraries are installed:
