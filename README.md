@@ -23,8 +23,7 @@ Pandas
 Installation
 
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/qa-system.git
-cd qa-system
+git clone "repo link"
 Step 2: Install Dependencies
 pip install -r requirements.txt
 Usage
